@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 28d10b4585c27cc44b361b1382f96954
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pacmania
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15019f85b4ae9f44e8dda3533e119274, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
